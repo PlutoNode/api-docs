@@ -30,6 +30,9 @@
     "baseUrl": "http://game.plutonode.com/",
     "auth": {
       "method": "bearer"
+    },
+    "playground": {
+      "mode": "simple"
     }
   }
 }
