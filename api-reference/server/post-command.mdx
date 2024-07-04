@@ -1,6 +1,6 @@
 ---
 title: 'Send a command to a server'
-description: "The server must be online to send a command to it. You will get HTTP 502 is the server if not online."
+description: "The server must be online to send a command to it. You will get HTTP 502 is the server if not online.  Include --header 'Content-Type: application/json' \ in your request."
 api: 'POST /api/client/servers/eff10fb1-e18b-4c3e-973e-a2c548c7b649/command'
-accept: 'application/json'
+props: 'path {serverId}'
 ---
