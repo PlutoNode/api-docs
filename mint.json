@@ -32,7 +32,7 @@
     }
   ],
   "api": {
-    "baseUrl": "http://game.plutonode.com/",
+    "baseUrl": "https://game.plutonode.com/",
     "auth": {
       "method": "bearer"
     },
