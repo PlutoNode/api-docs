@@ -25,11 +25,9 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Server",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/server/get-details"
       ]
     }
   ],
