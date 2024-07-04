@@ -23,10 +23,10 @@
         "api-reference/server/get-usage",
         "api-reference/server/get-websocket",
         "api-reference/server/post-command",
+        "api-reference/server/get-variables",
         "api-reference/server/post-rename",
         "api-reference/server/post-state",
         "api-reference/server/post-reinstall",
-        "api-reference/server/get-variables",
         "api-reference/server/put-variables"
       ]
     }
