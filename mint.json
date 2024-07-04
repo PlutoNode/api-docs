@@ -32,5 +32,11 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ]
+  ],
+  "api": {
+    "baseUrl": "http://game.plutonode.com/api/client/servers/<server id>",
+    "playground": {
+      "mode": "hide"
+    }
+  }
 }
