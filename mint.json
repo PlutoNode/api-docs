@@ -29,7 +29,11 @@
   "api": {
     "baseUrl": "http://game.plutonode.com/",
     "auth": {
-      "method": "bearer"
+      "method": "bearer",
+      "inputPrefix": "application/json"
+    },
+    "playground": {
+      "mode": "simple"
     }
   }
 }
