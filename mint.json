@@ -17,14 +17,6 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
       "group": "Server",
       "pages": [
         "api-reference/server/get-details"
@@ -33,8 +25,8 @@
   ],
   "api": {
     "baseUrl": "http://game.plutonode.com/api/client/servers/<server id>",
-    "playground": {
-      "mode": "hide"
-    }
+    "auth": {
+      "method": "bearer"
+  }
   }
 }
