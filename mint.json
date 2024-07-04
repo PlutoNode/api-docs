@@ -19,12 +19,15 @@
     {
       "group": "Server",
       "pages": [
-        "api-reference/server/get-details"
+        "api-reference/server/get-details",
+        "api-reference/server/get-usage",
+        "api-reference/server/get-websocket",
+        "api-reference/server/post-command"
       ]
     }
   ],
   "api": {
-    "baseUrl": "http://game.plutonode.com/api/client/servers/<server id>",
+    "baseUrl": "http://game.plutonode.com/",
     "auth": {
       "method": "bearer"
     }
