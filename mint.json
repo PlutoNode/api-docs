@@ -27,6 +27,6 @@
     "baseUrl": "http://game.plutonode.com/api/client/servers/<server id>",
     "auth": {
       "method": "bearer"
-  }
+    }
   }
 }
