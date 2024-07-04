@@ -19,7 +19,7 @@
     }
   ],
   "paths": {
-    "/plants": {
+    "/servers": {
       "get": {
         "description": "Returns data for a users server(s).",
         "parameters": [
